@@ -1,0 +1,9 @@
+[
+    { "tipoDeServico": "DEV", "valor": 1000.00, "tipoDeContratacao": "E", "horasEstimadas": 1000 },
+    { "tipoDeServico": "DEV", "valor": 60.00, "tipoDeContratacao": "H" },
+    { "tipoDeServico": "DEV", "valor": 20.00, "tipoDeContratacao": "H" },
+    { "tipoDeServico": "DEV", "valor": 2000.99, "tipoDeContratacao": "E", "horasEstimadas": 10 },
+    { "tipoDeServico": "DEV", "valor": 2000.89, "tipoDeContratacao": "E", "horasEstimadas": 20 },
+    { "tipoDeServico": "CAFE", "valor": 15.00, "tipoDeContratacao": "H" },
+    { "tipoDeServico": "CAFE", "valor": 10000.00, "tipoDeContratacao": "E", "horasEstimadas": 30 }
+]

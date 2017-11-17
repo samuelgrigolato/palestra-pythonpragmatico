@@ -1,0 +1,6 @@
+<funcionarios>
+	<funcionario cargo="Desenvolvedor Junior" salario="2000" />
+	<funcionario cargo="Desenvolvedor Pleno" salario="4000" />
+	<funcionario cargo="Barista" salario="89000" />
+	<funcionario cargo="Tio(a) do café" salario="20000.99" />
+</funcionarios>
